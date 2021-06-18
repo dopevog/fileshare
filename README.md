@@ -20,7 +20,7 @@ $ pip3 install -r requirements.txt
 
 ## Usage
 ```
-usage: qr-filetransfer [-h] [--debug] [--receive] [--port PORT]
+usage: python fileshare [-h] [--debug] [--receive] [--port PORT]
                        [--ip_addr {192.168.0.105}] [--auth AUTH]
                        file_path
 
