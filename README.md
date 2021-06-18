@@ -1,8 +1,5 @@
 <p align="center"><img src="logo.png"><br></p>
 <p align="center">
-<a href="./LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
-<a href="https://img.shields.io/badge/support-Linux%20|%20MacOS%20|%20Windows%20-blue.svg"><img src="https://img.shields.io/badge/support-Linux%20|%20MacOS%20|%20Windows%20-blue.svg"></a>
-</p>
 <p align="center">📨 Share files easily over your local network from the terminal! 📨</p>
 
 
