@@ -1,7 +1,7 @@
 <h1 align="center">Fileshare<br></h1>
 <p align="center"><img src="logo.png"><br></p>
 <p align="center">
-<p align="center">📨 Share files easily over your local network from the terminal! 📨</p>
+<h3 align="center">📨 Share files easily over your local network from the terminal! 📨</h3>
 
 
 ## Installation
