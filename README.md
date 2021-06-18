@@ -69,4 +69,4 @@ $ python fileshare.py -r /path/to/receive/file/to/
 ```
 
 ## License
-This Project Has Been [MIT Licensed]()
+This Project Has Been [MIT Licensed](https://github.com/cgraphite/fileshare/blob/main/LICENSE)
